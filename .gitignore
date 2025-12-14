@@ -2,3 +2,4 @@
 mail-data/
 mail-state/
 mail-logs/
+config/postfix-accounts.cf
