@@ -1,2 +1,2 @@
 #!/bin/bash
-docker logs -f mailserver
+docker logs -f $1
